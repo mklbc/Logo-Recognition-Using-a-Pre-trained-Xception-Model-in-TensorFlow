@@ -1,1 +1,1 @@
-# Logo-Recognition-Using-a-Pre-trained-Xception-Model-in-TensorFlow
+# Logo-Recognition-Using-a-Pre-trained-Xception-Model-in-TensorFlow[Logo Recognition Using a Pre-trained Xception Model in TensorFlow.pdf](https://github.com/user-attachments/files/19738679/Logo.Recognition.Using.a.Pre-trained.Xception.Model.in.TensorFlow.pdf)
